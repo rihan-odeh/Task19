@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Task19</string>
+    <string name="welcome_to_project_creator">Welcome To Project Creator</string>
+    <string name="click_to_create_a_project_by_name_and_description">Click to create a project by name and description</string>
+    <string name="name">Name:</string>
+    <string name="description">Description</string>
+    <string name="click_to_create_a_project_by_name">Click to create a project by name</string>
+    <string name="name1">Name:</string>
+    <string name="click_to_create_an_empty_project">Click to create an empty project</string>
+    <string name="click_to_view_all_created_project">Click to view all created project</string>
+    <string name="display_information">display information</string>
+</resources>
